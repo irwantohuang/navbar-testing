@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {
+      container: {
+        center:true,
+        padding: "24px"
+      },
       colors: {
         primary: {
           DEFAULT: "#FECF7D",
